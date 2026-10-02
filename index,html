@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+    <link rel="stylesheet" href="run.css">
+</head>
+<body>
+
+    <div class="main-container">
+        <img src="banner-icon.svg" alt="Banner Icon" class="banner-logo">
+        <h1>Welcome sa Website Mo</h1>
+    </div>
+
+    <script src="pre_run_jquery.js"></script>
+    <script src="early.js"></script>
+    <script src="dynamic.js"></script>
+    <script src="run.js"></script>
+    <script src="static.js"></script>
+</body>
+</html>
